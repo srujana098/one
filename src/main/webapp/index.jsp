@@ -1,4 +1,4 @@
-<html>
+o<html>
 <head>
 
 </head>
@@ -32,6 +32,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 hello i am srujana 
+hello 
 
 
 	
