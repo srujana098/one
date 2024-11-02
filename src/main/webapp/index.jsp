@@ -8,15 +8,7 @@ o<html>
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 <h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 hello
- i am srujana 
-aspiring devops engineer
-currently in training 
-hiii
-helo
-hey i am in training 
-hamayah! finally edo okati nerchukunna .
-edo okati
-done with deployment CI/CD in tomcat with jenkins help .
+ y i am failing In nexus part ?
 
 	
 	
