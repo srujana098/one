@@ -16,6 +16,7 @@ helo
 hey i am in training 
 hamayah! finally edo okati nerchukunna .
 edo okati
+done with deployment CI/CD in tomcat with jenkins help .
 
 	
 	
