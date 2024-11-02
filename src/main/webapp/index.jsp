@@ -15,6 +15,7 @@ hiii
 helo
 hey i am in training 
 hamayah! finally edo okati nerchukunna .
+edo okati
 
 	
 	
